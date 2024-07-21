@@ -1,3 +1,5 @@
+# This application is under construction
+
 # Blog API
 
 This is a Spring Boot API for a blog platform that includes user authentication, posts, and comments. The project uses JWT for authentication and PostgreSQL as the database, managed via Docker.
